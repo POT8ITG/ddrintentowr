@@ -1,0 +1,825 @@
+{
+    "_default": {},
+    "ddr_profile": {
+        "1": {
+            "card": "E004A716E39208FD",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,5,bc2218,0,0,0,0,1,0,6,0,6,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,NICKDOGG,1232-9496,,,,,,",
+                    "option": "ffffffff,OPTION,1,a,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,70327276,965a,3,1,1,0,0,69d2b,69d2b,8000000000000001,8000000000000001,0,3,63486704,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "4848",
+            "ddr_id": 12329496
+        },
+        "2": {
+            "card": "E00487CF2ECCBC04",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,35,3b7261e,0,0,5,0,1,0,5,0,1,4,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,GATO!!!!,6233-4494,,,,,,",
+                    "option": "ffffffff,OPTION,1,b,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,324e7276,91b7,4,1,1,0,0,48b88,15d6d,8000000000000001,8000000000000001,8000000000000001,3,63518197,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 62334494
+        },
+        "3": {
+            "card": "E00401002265618A",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,bc5d71,0,0,4,0,1,0,1d,0,1d,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,CRISTOBY,1234-4689,,,,,,",
+                    "option": "ffffffff,OPTION,1,0,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,6c76656c,3730766c,969c,0,1,2,4,1,20ad24,2c386,8000000000000001,8000000000000001,0,3,63508740,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "3015",
+            "ddr_id": 12344689
+        },
+        "4": {
+            "card": "E00401002861219A",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,33a6e1f,0,0,3,0,1,0,1b,0,1b,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,LINCITHA,5416-0927,,,,,,",
+                    "option": "ffffffff,OPTION,1,0,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,6c76656c,3730766c,969c,0,1,1,ffffffff,1,177a80,1f671,8000000000000001,8000000000000001,0,3,6350873a,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1284",
+            "ddr_id": 54160927
+        },
+        "5": {
+            "card": "E0044BF1EE8909EC",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,5,3411da5,0,0,9,0,1,0,1f,0,1f,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,DANY,5459-9077,,,,,,",
+                    "option": "ffffffff,OPTION,1,e,0,0,0,0,0,3,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,6c76656c,3431766c,941f,3,1,1,ffffffff,1,1a37c3,2407b,8000000000000001,8000000000000001,0,3,6351bb8b,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 54599077
+        },
+        "6": {
+            "card": "E004C1DB4B72DEC6",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,54f1561,0,0,0,0,1,0,4,0,4,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,ANGI,8906-8897,,,,,,",
+                    "option": "ffffffff,OPTION,1,c,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,314e7276,9001,3,1,1,0,0,3a42e,3a42e,8000000000000001,8000000000000001,0,3,6348bd55,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 89068897
+        },
+        "7": {
+            "card": "E00456785388BA78",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,31,4d536e8,0,0,9,0,1,0,b,0,b,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,SAKURA69,8108-2088,,,,,,",
+                    "option": "ffffffff,OPTION,1,f,0,0,0,0,0,3,0,0,0,0,3,0,2,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,33417276,9239,3,1,1,0,1,7cef7,28894,8000000000000001,8000000000000001,0,3,6351c59d,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "3587",
+            "ddr_id": 81082088
+        },
+        "8": {
+            "card": "E004898714F9AC62",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,1b,510e685,0,0,2,0,1,0,1,0,1,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,FRNKODEV,8499-3669,,,,,,",
+                    "option": "ffffffff,OPTION,1,e,0,0,0,0,0,3,0,0,0,0,1,2,0,0,0,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,6c76656c,3130766c,952d,3,1,1,0,0,3e0,3e0,8000000000000001,8000000000000001,0,3,6348c552,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 84993669
+        },
+        "9": {
+            "card": "E0048E4F6B3338E2",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,22,1bf3ffd,0,0,4,0,1,0,1,0,1,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,GAVIO1,2931-0973,,,,,,",
+                    "option": "ffffffff,OPTION,1,e,0,0,0,0,0,3,0,0,0,0,1,2,1,0,0,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,6c76656c,3931766c,9505,4,1,1,0,0,0,0,8000000000000001,8000000000000001,0,3,6348c739,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 29310973
+        },
+        "10": {
+            "card": "E00429452369CA4E",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,3e54f06,0,0,0,0,1,0,15,0,14,1,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,PANITA-,6535-9622,,,,,,",
+                    "option": "ffffffff,OPTION,1,9,0,0,0,0,0,3,0,0,0,0,3,0,2,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,33417276,96b1,4,2,1,0,1,1b7305,b9667,8000000000000001,8000000000000001,8000000000000001,3,6350ab97,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 65359622
+        },
+        "11": {
+            "card": "E004010028613F76",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,3c0e1fe,0,0,0,0,1,0,36,0,1f,17,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,ANGI-,6297-2414,,,,,,",
+                    "option": "ffffffff,OPTION,1,7,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,33417276,96b1,4,1,2,0,1,55f6fe,109c99,8000000000000001,8000000000000001,8000000000000001,3,6351fc29,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 62972414
+        },
+        "12": {
+            "card": "E004D6FEFFE40A93",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,6d,381d211,0,0,0,0,1,0,19,0,18,1,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,ESOTILIN,5883-9569,,,,,,",
+                    "option": "ffffffff,OPTION,1,8,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,726e6567,41567267,950d,4,1,1,0,0,15ed75,644ea,8000000000000001,8000000000000001,8000000000000001,3,6351a5bd,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1345",
+            "ddr_id": 58839569
+        },
+        "13": {
+            "card": "E0046D38CADA075D",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "2555",
+            "ddr_id": 54813379
+        },
+        "14": {
+            "card": "E004826165E79BC9",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,32,17d2b2a,0,0,6,0,1,0,24,0,24,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,KURISEGS,2498-0266,,,,,,",
+                    "option": "ffffffff,OPTION,1,8,0,0,0,0,0,3,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,6c746974,2042756d,952e,1,1,1,0,0,219555,ad6b3,8000000000000001,8000000000000001,0,3,6351a7ea,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "2555",
+            "ddr_id": 24980266
+        },
+        "15": {
+            "card": "E004613427518461",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,350426d,0,0,3,0,1,0,3,0,3,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,LICKDARK,5559-1533,,,,,,",
+                    "option": "ffffffff,OPTION,1,d,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,31726c63,20543163,94cf,3,1,1,0,0,1fde8,5420,8000000000000001,8000000000000001,0,3,635087fb,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "3434",
+            "ddr_id": 55591533
+        },
+        "16": {
+            "card": "E00401002865318A",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,4b68e3e,0,0,6,0,1,0,19,0,f,a,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,FIDELIN,7907-2830,,,,,,",
+                    "option": "ffffffff,OPTION,1,9,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,6c76656c,3531766c,969a,3,1,2,6,1,21f9c7,10af0a,8000000000000001,8000000000000001,8000000000000001,3,634f369a,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "3015",
+            "ddr_id": 79072830
+        },
+        "17": {
+            "card": "E004E3FDADB54E33",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 99435452
+        },
+        "18": {
+            "card": "E0044AE283C38A3D",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 52794194
+        },
+        "19": {
+            "card": "E004F4DE20A39BB6",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 81674249
+        },
+        "20": {
+            "card": "E00475AF0918A94D",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 80737418
+        },
+        "21": {
+            "card": "E004C53CCB90ACF4",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,253ff8e,0,0,0,0,1,0,4,0,4,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,JIMMY,3905-9342,,,,,,",
+                    "option": "ffffffff,OPTION,1,b,0,0,0,0,0,3,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,33417276,962e,3,1,1,0,0,38c90,16093,8000000000000001,8000000000000001,0,3,63516f9a,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 39059342
+        },
+        "22": {
+            "card": "E0045FEB2EE6B1EF",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 57349057
+        },
+        "23": {
+            "card": "E0041332B52783CD",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 81401035
+        },
+        "24": {
+            "card": "E004A38701C5E022",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1313",
+            "ddr_id": 35961454
+        },
+        "25": {
+            "card": "E004A4311B321FCC",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 81339951
+        },
+        "26": {
+            "card": "E0044FC11038F21A",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0
+                }
+            },
+            "pin": "1313",
+            "ddr_id": 70457680
+        },
+        "27": {
+            "card": "E004BDE8A15CE4D0",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,496d578,0,0,0,0,1,0,2,0,2,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,TEST,7699-3912,,,,,,",
+                    "option": "ffffffff,OPTION,1,3,0,0,0,0,0,3,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,726e6567,4f487267,9542,0,4,1,6,1,2a4,2a4,8000000000000001,8000000000000001,0,3,634ef266,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1231",
+            "ddr_id": 76993912
+        },
+        "28": {
+            "card": "E004AA2C30C3BE40",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,35,270b327,0,0,0,0,1,0,7,0,4,3,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,PPABLO,4094-0327,,,,,,",
+                    "option": "ffffffff,OPTION,1,6,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,6c76656c,3231766c,d,4,1,1,0,0,9551b,9551b,8000000000000001,8000000000000001,8000000000000001,3,634aee10,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 40940327
+        },
+        "29": {
+            "card": "E00401002265628A",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,47e1f01,0,0,6,0,1,0,8,0,8,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,VITO.SMO,7537-4337,,,,,,",
+                    "option": "ffffffff,OPTION,1,d,0,0,0,0,0,1,0,0,0,0,3,0,0,1,1,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,32587276,933c,3,1,1,4,1,c0a65,a6cae,8000000000000001,8000000000000001,0,3,634b4c7d,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 75374337
+        },
+        "30": {
+            "card": "E00475947349AC26",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,532399d,1,0,0,0,0,0,ffffffffffffffff,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,8717-7629,,,,,,",
+                    "option": "ffffffff,OPTION,0,3,0,0,0,0,0,3,0,0,0,0,1,2,0,0,0,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1212",
+            "ddr_id": 87177629
+        },
+        "31": {
+            "card": "E00405E3F4E3A0BF",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,3253a1e,1,0,0,0,0,0,ffffffffffffffff,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,5277-1358,,,,,,",
+                    "option": "ffffffff,OPTION,0,3,0,0,0,0,0,3,0,0,0,0,1,2,0,0,0,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 52771358
+        },
+        "32": {
+            "card": "E00443A583AB5D61",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,1f8c25b,0,0,8,0,1,0,1,0,1,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,DANCER,3307-9899,,,,,,",
+                    "option": "ffffffff,OPTION,1,b,0,0,0,0,0,3,0,0,0,0,1,2,0,0,0,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,73726576,33417276,9638,2,1,1,0,0,153a3,153a3,8000000000000001,8000000000000001,0,3,634ee190,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 33079899
+        },
+        "33": {
+            "card": "E00482055551B664",
+            "version": {
+                "19": {
+                    "game_version": 19,
+                    "calories_disp": "Off",
+                    "character": "All Character Random",
+                    "arrow_skin": "Normal",
+                    "filter": "Darkest",
+                    "guideline": "Off",
+                    "priority": "Arrow",
+                    "timing_disp": "On",
+                    "rival_1_ddr_id": 0,
+                    "rival_2_ddr_id": 0,
+                    "rival_3_ddr_id": 0,
+                    "single_grade": 0,
+                    "double_grade": 0,
+                    "common": "ffffffff,COMMON,1,d,3d5014b,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,RAZONEMO,6429-1147,,,,,,",
+                    "option": "ffffffff,OPTION,0,3,0,0,0,0,0,3,0,0,0,0,1,2,0,0,0,10.000000,10.000000,10.000000,10.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "last": "ffffffff,LAST,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,",
+                    "rival": "ffffffff,RIVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,,,,,,,,"
+                }
+            },
+            "pin": "1234",
+            "ddr_id": 64291147
+        }
+    },
+    "ddr_scores_best": {},
+    "ddr_scores_wr": {}
+}
